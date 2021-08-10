@@ -1,1 +1,1 @@
-# ScssRecap
+https://heykaizen.github.io/ScssRecap/
